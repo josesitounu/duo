@@ -117,8 +117,8 @@
         }
       
     .audo{
-        margin: 200px 50px;
-        pointer-events: none;
+        margin: 150px 50px;
+        pointer-events:none;
         position: fixed;
         height: 200px;
         width: 300px;
