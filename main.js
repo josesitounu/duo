@@ -1,9 +1,9 @@
 let nombre = prompt("contraseña papi");
 
-if(nombre != "gaby"){
+if(nombre != "popo"){
     do{
     nombre = prompt("si no te la sabes abrete papi")
-    }while(nombre != "gaby")
+    }while(nombre != "popo")
 }
 
 
